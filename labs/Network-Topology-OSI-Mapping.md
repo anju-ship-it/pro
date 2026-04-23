@@ -1,7 +1,6 @@
 # Lab: Network Topology Design (Star / Hub-and-Spoke)
 
-![Network Diagram](topology_network.jpg)
-## 🎯 Overview
+![Network Diagram](Network_topology.jpg)## 🎯 Overview
 For this lab, I designed a star topology using a central switch and multiple end devices. A star topology connects each device to a single central forwarding appliance, making it easy to manage and troubleshoot.
 
 ## 🏗️ Topology Components
