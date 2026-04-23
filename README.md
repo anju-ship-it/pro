@@ -21,4 +21,4 @@ Since 2024, I have been working as an Institutional Assistant at Del Norte High 
 
 ## 📬 Connect with Me
 * **GitHub:** [anju-ship-it](https://github.com/anju-ship-it)
-* **Full Portfolio:** [View my Google Sites Portfolio](https://sites.google.com/calbrightcollege.org/anju-portfolio/home/about-me)
+* **Full Portfolio:** [View my Google Sites Portfolio](https://sites.google.com/calbrightcollege.org/anju1-portfolio/home
