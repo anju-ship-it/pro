@@ -28,3 +28,13 @@ Each Marketing workstation (Mktg1–Mktg5) is connected directly to the central 
 | **3: Network** | Router, Layer 3 Switch | IPv4, IPv6, ICMP |
 | **2: Data Link** | Switch, Bridges | Ethernet, ARP |
 | **1: Physical** | Hub, Modems | 1000Base-T, Fiber Signal |
+---
+
+## ✅ Lab Results & Verification
+To verify the connectivity of this Star Topology, I performed a connectivity test between the workstations.
+
+![Lab Summary/Results](lab1_summary.jpg)
+
+### Observations:
+* **Connectivity:** All pings between Mktg1 and Mktg5 were successful via the central switch.
+* **Logic Check:** The switch correctly populated its MAC address table, ensuring traffic only went to the intended destination.
